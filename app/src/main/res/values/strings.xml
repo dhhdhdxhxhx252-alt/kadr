@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kadr</string>
+    <string name="tagline">запись экрана</string>
+
+    <string name="channel_recording">Запись экрана</string>
+    <string name="notification_recording">Идёт запись экрана</string>
+    <string name="notification_stop">Остановить</string>
+
+    <string name="record">Записать</string>
+    <string name="stop">Остановить</string>
+    <string name="status_ready">Готов</string>
+    <string name="status_recording">Идёт запись</string>
+    <string name="hint_ready">Нажмите «Записать» и разрешите показ экрана.</string>
+    <string name="hint_recording">Можно свернуть — запись продолжится.</string>
+    <string name="denied_projection">Запись экрана не разрешена</string>
+    <string name="denied_permissions">Нет нужных разрешений</string>
+
+    <string name="quality_label">Качество</string>
+    <string name="frame_label">Частота кадров</string>
+    <string name="audio_label">Звук</string>
+    <string name="limit_label">Ограничение</string>
+
+    <string name="library_title">Записи · %1$d</string>
+    <string name="library_empty">Здесь появятся файлы из Movies/Kadr</string>
+    <string name="refresh">Обновить</string>
+    <string name="share">Поделиться</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_title">Удалить запись?</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete_failed">Не удалось удалить</string>
+</resources>
