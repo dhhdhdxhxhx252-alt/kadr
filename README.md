@@ -6,6 +6,10 @@
 Код написан с нуля на Kotlin: ни одна строка и ни один ресурс не перенесены из
 сторонних рекордеров.
 
+**Скачать готовый APK:** [kadr-v1.0.0-debug.apk](https://github.com/dhhdhdxhxhx252-alt/kadr/releases/download/v1.0.0/kadr-v1.0.0-debug.apk)
+из [релиза v1.0.0](https://github.com/dhhdhdxhxhx252-alt/kadr/releases/tag/v1.0.0) — debug-сборка,
+ставится через `adb install -r` или напрямую.
+
 ## Что умеет
 
 - Запись экрана через `MediaProjection` + `MediaCodec` (поверхность кодека) + `MediaMuxer`, H.264/AAC.
